@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Portal FNT Fidelidade",
+  "description": "Aplicativo oficial do Portal FNT para notícias de Franca e região da Alta Mogiana, com sistema de vantagens e fidelidade.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
